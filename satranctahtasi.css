@@ -1,0 +1,22 @@
+.siyah{
+    background-color: black
+}
+td{
+    text-align: center;
+    height: 100;
+    width: 100;
+}
+.harfler{
+    vertical-align: bottom;
+}
+.amktdsi{
+    text-align: right;
+    vertical-align: middle;
+}
+.beyaz{
+    background-color:burlywood;
+}
+
+.animate__animated{
+    font-family: 'courier', monospace;
+}
